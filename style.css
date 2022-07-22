@@ -1,0 +1,22 @@
+.jumbotron {
+  padding: 7rem;
+  background-color: aliceblue;
+}
+
+#projects {
+  background-color: aliceblue;
+}
+
+section {
+  padding-top: 9rem;
+}
+
+#maincontent {
+  width: auto;
+  float: none;
+}
+
+#sidebar {
+  width: auto;
+  float: none;
+}
